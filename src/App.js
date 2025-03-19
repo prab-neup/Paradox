@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import Home from "./components/Home";
 import Features from "./components/Features";
-import Downloads from "./components/Downloads"; // Ensure the file name matches
+import Downloads from "./components/Downloads";
 import Career from "./components/Career";
 import Pricing from "./components/Pricing";
 import "./App.css";
